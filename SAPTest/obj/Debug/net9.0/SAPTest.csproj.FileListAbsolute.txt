@@ -1,0 +1,17 @@
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\bin\Debug\net9.0\SAPTest.exe
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\bin\Debug\net9.0\SAPTest.deps.json
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\bin\Debug\net9.0\SAPTest.runtimeconfig.json
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\bin\Debug\net9.0\SAPTest.dll
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\bin\Debug\net9.0\SAPTest.pdb
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\SAPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\SAPTest.AssemblyInfoInputs.cache
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\SAPTest.AssemblyInfo.cs
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\SAPTest.csproj.CoreCompileInputs.cache
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\SAPTest.dll
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\refint\SAPTest.dll
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\SAPTest.pdb
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\SAPTest.genruntimeconfig.cache
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\ref\SAPTest.dll
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\SAPTest.csproj.AssemblyReference.cache
+C:\Users\adamc\Desktop\MRPSuggestion\SAPTest\obj\Debug\net9.0\SAPTest.csproj.Up2Date
