@@ -32,7 +32,7 @@ app.MapGet("/recommendations", async () =>
             {
                 string? material = item["Material"]?.ToString();
                 string? materialType = item["MaterialType"]?.ToString();
-                string? procurementType = item["ProcurementType"]?.ToString();
+                string? procurementType = item["MaterialProcurementCategory"]?.ToString();
                 string? forecastIndicator = item["ForecastIndicator"]?.ToString();
                 string? plant = item["PlantName"]?.ToString();
                 string? mrpType = item["MRPType"]?.ToString();

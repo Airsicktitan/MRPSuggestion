@@ -28,3 +28,4 @@ C:\Users\adamc\Desktop\MRPSuggestion\MrpApi\obj\Debug\net9.0\refint\MrpApi.dll
 C:\Users\adamc\Desktop\MRPSuggestion\MrpApi\obj\Debug\net9.0\MrpApi.pdb
 C:\Users\adamc\Desktop\MRPSuggestion\MrpApi\obj\Debug\net9.0\MrpApi.genruntimeconfig.cache
 C:\Users\adamc\Desktop\MRPSuggestion\MrpApi\obj\Debug\net9.0\ref\MrpApi.dll
+C:\Users\adamc\Desktop\MRPSuggestion\MrpApi\obj\Debug\net9.0\MrpApi.sourcelink.json
